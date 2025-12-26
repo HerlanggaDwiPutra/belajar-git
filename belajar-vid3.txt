@@ -1,0 +1,4 @@
+belajar branch dari vid ke 3 
+- mulai 
+- membuat file baru 
+- commit 1
