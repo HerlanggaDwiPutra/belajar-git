@@ -7,10 +7,10 @@ praktik vid ke 2 dari yt sandhikagalih
 
 belajar tim
 - membuat code
-  ^ memakai cursor 
+  ^ memakai vscode
+- bantuan ai
+  ^ pakai Open AI dan gemini
 - membut design
   ^ memakai figma
-- bantuan ai
-  ^ memakai canva ai dan bing ai
 - tutorial lewat apa?
   ^ lewat youtube dan discord
