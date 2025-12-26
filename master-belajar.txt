@@ -1,5 +1,6 @@
 praktik vid ke 2 dari yt sandhikagalih
 - membuat satu file
 - commit
-- masih dari vid 2 
+
 - mencoba commit lagi
+- comit ke 3
