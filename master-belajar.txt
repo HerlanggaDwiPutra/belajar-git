@@ -8,9 +8,9 @@ praktik vid ke 2 dari yt sandhikagalih
 belajar tim
 - membuat code
   ^ memakai vscode
-- membut design
-  ^ memakai canva
 - bantuan ai
   ^ pakai Open AI dan gemini
+- membut design
+  ^ memakai figma
 - tutorial lewat apa?
-  ^ lewat twitter dan fesnuk
+  ^ lewat youtube dan discord
